@@ -1,0 +1,34 @@
+#app {
+    font-family: 'Kanit', sans-serif;
+}
+
+.app__section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: inherit;
+}
+
+
+/*Scroll bar customization*/
+::-webkit-scrollbar {
+    width: 5px;
+    border: none;
+}
+  
+::-webkit-scrollbar-track {
+    background: #131313;
+    border: none;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #00818A;
+    border-radius: 2px;
+    border: none;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #005960;
+    border: none;
+}

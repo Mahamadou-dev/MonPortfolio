@@ -52,7 +52,7 @@ const MobileDeviceDrawer = () => {
                     className='text-4xl'
                 >
                     <a
-                        href='https://github.com/harounatiambou00'
+                        href='https://github.com/Mahamadou-dev'
                     >
                         <FiGithub />
                     </a>
@@ -61,7 +61,7 @@ const MobileDeviceDrawer = () => {
                     className='text-4xl'
                     color={isDarkTheme? 'secondary' : 'linkedin'}
                 >
-                    <a href='https://www.linkedin.com/in/abdoul-wahabou-harouna-tiambou-475099210/'>
+                    <a href='https://www.linkedin.com/in/mahamadou-amadou-habou-gremah-54766632b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
                         <FiLinkedin />
                     </a>
                 </IconButton>
@@ -69,7 +69,7 @@ const MobileDeviceDrawer = () => {
                     className='text-4xl'
                     color={isDarkTheme? 'secondary' : 'facebook'}
                 >
-                    <a href='https://m.facebook.com/abdoulwahab.harouna.98' target='_blank' rel="noreferrer">
+                    <a href='https://www.facebook.com/mahamadou.amadouhabougremah.1?mibextid=ZbWKwL' target='_blank' rel="noreferrer">
                         <FiFacebook />
                     </a>    
                 </IconButton>
@@ -77,7 +77,7 @@ const MobileDeviceDrawer = () => {
                     className='text-4xl'
                     color={isDarkTheme? 'secondary' : 'twitter'}
                 >
-                    <a href='https://twitter.com/AbdoulTiambou' target='_blank'  rel="noreferrer">
+                    <a href='https://twitte.com/AbdoulTiambou' target='_blank'  rel="noreferrer">
                         <FiTwitter />
                     </a>
                 </IconButton>

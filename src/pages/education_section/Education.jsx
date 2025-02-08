@@ -89,12 +89,17 @@ const Education = () => {
         >
           <Tab 
             className='font-kanit font-semibold' 
-            label="2020-Present" 
+            label="2023-Present" 
             {...a11yProps(0)} 
           />
           <Tab 
             className='font-kanit font-semibold'
-            label="2017-2020" 
+            label="2022-2023" 
+            {...a11yProps(1)} 
+          />
+           <Tab 
+            className='font-kanit font-semibold'
+            label="2020-2022" 
             {...a11yProps(1)} 
           />
         </Tabs>
@@ -179,7 +184,7 @@ const Education = () => {
               <img 
                 className='h-16 w-16 rounded-full'
                 src={MD}
-                alt='Manou Diatta'
+                alt='CSP TARAT'
               />
               <h1
                 className='sm:text-3xl lg:text-xl opacity-80 ml-4'

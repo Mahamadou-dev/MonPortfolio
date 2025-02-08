@@ -41,7 +41,7 @@ const SocialMediasIcons = () => {
                 color={isDarkTheme? 'light' : 'githubLogoColor'}
             >
                 <a
-                    href='https://github.com/harounatiambou00'
+                    href='https://github.com/Mahamadou-dev'
                 >
                     <BsGithub />
                 </a>
@@ -56,7 +56,7 @@ const SocialMediasIcons = () => {
             <IconButton
                 color='facebook'
             >
-                <a href='https://m.facebook.com/abdoulwahab.harouna.98' target='_blank' rel="noreferrer">
+                <a href='https://www.facebook.com/mahamadou.amadouhabougremah.1?mibextid=ZbWKwL' target='_blank' rel="noreferrer">
                     <BsFacebook />
                 </a>    
             </IconButton>
